@@ -1,6 +1,15 @@
-# movieapps
+# sinarmastest
 
 a [Sails v1](https://sailsjs.com) application
+
+
+### How to Install
++ docker-compose up
++ npm install
++ sails lift
+
+### How to Unit Test
++ npm run test
 
 
 ### Links
